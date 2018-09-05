@@ -1,7 +1,7 @@
 package producto.entity;
 
 public class Producto {
-	
+	//Líneade Prueba
 	private int codProducto;
 	private String nombre;
 	private double precio;
